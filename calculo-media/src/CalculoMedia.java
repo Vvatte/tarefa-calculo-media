@@ -10,6 +10,6 @@ public class CalculoMedia {
         num4= 20;
 
         media =(num1 + num2 + num3 + num4) / 4;
-        System.out.println("Total" + media);
+        System.out.println("Total " + media);
     }
 }
